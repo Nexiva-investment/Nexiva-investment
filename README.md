@@ -37,10 +37,11 @@ Nous utilisons GitHub pour partager nos projets et nos idées. Ici, vous trouver
 
 Nous sommes toujours à l'écoute de vos questions et suggestions. N'hésitez pas à nous contacter :
 
+- **Web** : [Nexiva](https://nexiva-investment.odoo.com/)
 - **Email** : [infos.nexiva@gmail.com](mailto:infos.nexiva@gmail.com)
 - **Instagram** : [nexiva.investment](https://www.instagram.com/nexiva.investment/)
-- **Twitter** : [@CNexiva45014](https://x.com/CNexiva45014)
-- **Facebook** : [NEXIVA Facebook](https://www.facebook.com/profile.php?id=61566872453537)
+- **Twitter** : [Nexiva](https://x.com/CNexiva45014)
+- **Facebook** : [Nexiva](https://www.facebook.com/profile.php?id=61566872453537)
 
 Ensemble, construisons un avenir meilleur grâce à l'investissement collectif. Merci de votre intérêt pour NEXIVA !
 
@@ -75,10 +76,11 @@ We use GitHub to share our projects and ideas. Here, you will find:
 
 We are always here to listen to your questions and suggestions. Feel free to contact us:
 
-- **Email**: [infos.nexiva@gmail.com](mailto:infos.nexiva@gmail.com)
-- **Instagram**: [nexiva.investment](https://www.instagram.com/nexiva.investment/)
-- **Twitter**: [@CNexiva45014](https://x.com/CNexiva45014)
-- **Facebook**: [NEXIVA Facebook](https://www.facebook.com/profile.php?id=61566872453537)
+ **Web** : [Nexiva](https://nexiva-investment.odoo.com/)
+- **Email** : [infos.nexiva@gmail.com](mailto:infos.nexiva@gmail.com)
+- **Instagram** : [nexiva.investment](https://www.instagram.com/nexiva.investment/)
+- **Twitter** : [Nexiva](https://x.com/CNexiva45014)
+- **Facebook** : [Nexiva](https://www.facebook.com/profile.php?id=61566872453537)
 
 Together, let's build a better future through collective investment. Thank you for your interest in NEXIVA!
 
@@ -113,10 +115,11 @@ Utilizamos GitHub para compartir nuestros proyectos e ideas. Aquí encontrarás:
 
 Siempre estamos dispuestos a escuchar tus preguntas y sugerencias. No dudes en contactarnos:
 
-- **Email**: [infos.nexiva@gmail.com](mailto:infos.nexiva@gmail.com)
-- **Instagram**: [nexiva.investment](https://www.instagram.com/nexiva.investment/)
-- **Twitter**: [@CNexiva45014](https://x.com/CNexiva45014)
-- **Facebook**: [NEXIVA Facebook](https://www.facebook.com/profile.php?id=61566872453537)
+ **Web** : [Nexiva](https://nexiva-investment.odoo.com/)
+- **Email** : [infos.nexiva@gmail.com](mailto:infos.nexiva@gmail.com)
+- **Instagram** : [nexiva.investment](https://www.instagram.com/nexiva.investment/)
+- **Twitter** : [Nexiva](https://x.com/CNexiva45014)
+- **Facebook** : [Nexiva](https://www.facebook.com/profile.php?id=61566872453537)
 
 Juntos, construyamos un futuro mejor a través de la inversión colectiva. ¡Gracias por tu interés en NEXIVA!
 
@@ -151,10 +154,11 @@ NXVA代币是我们生态系统的核心，给用户提供了许多可能性：
 
 我们始终乐意倾听您的问题和建议。请随时联系我们：
 
-- **Email**： [infos.nexiva@gmail.com](mailto:infos.nexiva@gmail.com)
-- **Instagram**： [nexiva.investment](https://www.instagram.com/nexiva.investment/)
-- **Twitter**： [@CNexiva45014](https://x.com/CNexiva45014)
-- **Facebook**： [NEXIVA Facebook](https://www.facebook.com/profile.php?id=61566872453537)
+ **Web** : [Nexiva](https://nexiva-investment.odoo.com/)
+- **Email** : [infos.nexiva@gmail.com](mailto:infos.nexiva@gmail.com)
+- **Instagram** : [nexiva.investment](https://www.instagram.com/nexiva.investment/)
+- **Twitter** : [Nexiva](https://x.com/CNexiva45014)
+- **Facebook** : [Nexiva](https://www.facebook.com/profile.php?id=61566872453537)
 
 让我们共同通过集体投资构建更美好的未来。感谢您对NEXIVA的关注！
 
